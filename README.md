@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lxandr1
-- 👀 I’m interested in backend, frontend, and devops.
+- 👀 I’m interested in backend, frontend, and devops (Want tobe avatar in tech eco 🤣).
 - 🌱 I’m currently learning about javascript, typescript ecosystem.
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
